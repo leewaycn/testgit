@@ -1,3 +1,6 @@
+
+source 'https://github.com/leewaycn/Specs.git'
+
 use_frameworks!
 
 target 'test_Example' do

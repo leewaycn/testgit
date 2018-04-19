@@ -1,9 +1,9 @@
 {
   "name": "test",
-  "version": "0.1.0",
-  "summary": "A short description of test.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/leeway.cn@qq.com/test",
+  "version": "0.1.1",
+  "summary": "A aaa description of test.",
+  "description": "TODO: Add long description of the pod here.aaaaa",
+  "homepage": "https://github.com/leewaycn/testgit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "leeway.cn@qq.com": "lewis.li@esgo.cc"
   },
   "source": {
-    "git": "https://github.com/leeway.cn@qq.com/test.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/leewaycn/testgit.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
