@@ -8,37 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		00E23217F603215EFAD6A21975CBAD3B /* Pods-test_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 49B98FDCE829D382F53ED8341D01FEFD /* Pods-test_Tests-dummy.m */; };
-		061891BAA98F8869E2DE813304B6C71D /* DRBaseModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CBFDA1D4CC65BE513B8BDAD5597EE8E /* DRBaseModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0780F46019CAF505490912E2B7743668 /* DRUploadLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 08802E57EC495F967A09A6768C5CB718 /* DRUploadLocationManager.m */; };
-		1284BAF0DB3CF7B23421A47B0995A5CA /* test-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FF74739BF67F94EBA6411002E7AF0D4 /* test-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		21B07CABE7BD5014C32565C34E592EDA /* test-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A91EB1A5AD04C7EA50C54543789D14F /* test-dummy.m */; };
+		0A0FB5640B5580B2F089416736F45D45 /* lskskdd.m in Sources */ = {isa = PBXBuildFile; fileRef = EECF5A8A197B365584D1FBD5F00CB978 /* lskskdd.m */; };
 		21FC6183E10F568F455692CE0AAEEA0B /* Pods-test_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 748102A55BD919C43C95B0EC1B96975E /* Pods-test_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		31D1F9D999F5F261A7DBCDE87EE9E24F /* DRUpLoadPointModel.h in Headers */ = {isa = PBXBuildFile; fileRef = D7A3B1A7165D72BC20C8B3C7F08A3621 /* DRUpLoadPointModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3653B083CA11024EE031379DA10DBBC5 /* DRSendPointData.h in Headers */ = {isa = PBXBuildFile; fileRef = E72F2869A1183ABDA14967B13AB02544 /* DRSendPointData.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3AE993A74B160DEB679F3E1281B6294D /* DRUserSinglton.h in Headers */ = {isa = PBXBuildFile; fileRef = 4EB2EED4B6A1160A20D2D764D8CD95C7 /* DRUserSinglton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		41FC0EFF37E03D2D2FBC4E75FCFE7790 /* DRSendPointData.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ED018DD6FD43903CB7C36135D12EBCC /* DRSendPointData.m */; };
-		44A3F6981553AFC5765EFC6F4EF7BD2A /* DRUploadLocationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 90B7D37F144D64C078DE4C76E201993A /* DRUploadLocationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4A5659CD82212DD60D6F4807DE50A962 /* DRUpLoadPointModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 028F0E19055488593CE96F0E25E5EF60 /* DRUpLoadPointModel.m */; };
-		4C0513F1158100E1753FBF8D8EA10CF7 /* DRUserSinglton.m in Sources */ = {isa = PBXBuildFile; fileRef = A3DF90B26455A8601365A123E4212D2D /* DRUserSinglton.m */; };
-		5266687A7F315B538C22F41663D31248 /* DRUpLoadHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = BECD27CE32A81B8A12A10B902E1867E4 /* DRUpLoadHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		549D6B47077CDD8289ECE2D80B0233D4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		7422CD4F2D093584FFCD3A42BC250C5D /* DRSingleTripPointsDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E09C87C489429060C196CF521A0EE83 /* DRSingleTripPointsDB.m */; };
-		7444E9F276AC1E36D16D0CE058C50537 /* DRTranslateManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A66B9D0A53F6E9522AF7995352AA042E /* DRTranslateManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		80F123075C59627CF8B6E56541A22C33 /* DRSingleTripPointsDB.h in Headers */ = {isa = PBXBuildFile; fileRef = C16AB2C95BC1E8B6A65EBDEFAA86A85E /* DRSingleTripPointsDB.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9410DBF0FD5AE62041AEB4A9ACF520D0 /* DRUploadDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 8671A65EC0A79C9DB9E53F3DCE39D79E /* DRUploadDB.m */; };
-		9ADDCE9DA6D678ECB5D9500371AA1184 /* DRUpLoadTripDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CAD9D69C4997E3C3AF93C2CDC8984FD /* DRUpLoadTripDataModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		741899D55025830B9B9AEFD0FF7329B1 /* test-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AB368BFF503E35DB2D1BA3819E51BF /* test-dummy.m */; };
 		9ECFA44690B1B562315B3B6DCAA2DD13 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		9F75B1B1BC181F27D9D17E300CF095F3 /* DRUploadDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 85BC93F8D440CF37EC9F256E16D3E0A6 /* DRUploadDataModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A092E1A1BEFBD9390E3CEB2AA413FD69 /* DRUploadDB.h in Headers */ = {isa = PBXBuildFile; fileRef = D0D29E2F47F9E66211981FC32019F402 /* DRUploadDB.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		ADE5A4E1F7943CAAAD238E202D611D47 /* LVPushManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1055BC53560A416273B16B2D4D6322F4 /* LVPushManager.m */; };
-		AF10E0651FF28A7BA7D3426CC321AFAF /* DRTranslateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 45891C3FED173AF7885DDF96673514FB /* DRTranslateManager.m */; };
-		B63AE5112075BD93FA31BD3276E6D029 /* DRBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C6AE8982315184F396DE40F96CE52554 /* DRBaseModel.m */; };
 		BD224BE23564F09F20DD0EC0CEB18786 /* Pods-test_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ABF1AE6DB3DDAED78AB776DDC63E8A52 /* Pods-test_Example-dummy.m */; };
-		C4BAD2BEEB29933926C2AFA9DF9EBB60 /* LVPushManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A128B7333C67B81EA0B8BE76ED2C8F97 /* LVPushManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D5E0C871E7BDF079256E432698DE7025 /* DRUploadDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C82581577B8C573813B1419D3FD2FB /* DRUploadDataModel.m */; };
+		BE8223F471FA644A3E1EA2599D57FAC7 /* lskskdd.h in Headers */ = {isa = PBXBuildFile; fileRef = 9DD1C4C3CC25C878FD5265666CAB5830 /* lskskdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DE6EFB7287337A4403C6B83B238613A0 /* Pods-test_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D4478F43FBA34265A6B25CED6DA71492 /* Pods-test_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5C8B6C0E1EA668763F9E14B5A351B17 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		FB55F3967E98D4AA9DEF9F4278CC4CFA /* DRUpLoadTripDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A07EF43E0D0D98F8460E8079026D1A31 /* DRUpLoadTripDataModel.m */; };
+		E95F6E58FE2DF1DF78D714F5233956E1 /* test-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C2D2DE9DB9596CDD48EF95451088AD00 /* test-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,60 +31,39 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		028F0E19055488593CE96F0E25E5EF60 /* DRUpLoadPointModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUpLoadPointModel.m; path = test/Classes/Model/DRUpLoadPointModel.m; sourceTree = "<group>"; };
 		068508F6D573B10A603A07B75F1DDD1F /* Pods-test_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test_Example-frameworks.sh"; sourceTree = "<group>"; };
-		08802E57EC495F967A09A6768C5CB718 /* DRUploadLocationManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUploadLocationManager.m; path = test/Classes/Model/DRUploadLocationManager.m; sourceTree = "<group>"; };
-		0CAD9D69C4997E3C3AF93C2CDC8984FD /* DRUpLoadTripDataModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUpLoadTripDataModel.h; path = test/Classes/Model/DRUpLoadTripDataModel.h; sourceTree = "<group>"; };
-		1055BC53560A416273B16B2D4D6322F4 /* LVPushManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LVPushManager.m; path = test/Classes/Model/LVPushManager.m; sourceTree = "<group>"; };
 		1389F5B962654F2DC19C37790918D671 /* Pods-test_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test_Example.release.xcconfig"; sourceTree = "<group>"; };
-		16BACE1ED3D910D415B2FE0168C88952 /* test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = test.xcconfig; sourceTree = "<group>"; };
 		1E9D4D3AEA15A0056B880D178BCBF017 /* Pods_test_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_test_Tests.framework; path = "Pods-test_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1ED018DD6FD43903CB7C36135D12EBCC /* DRSendPointData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRSendPointData.m; path = test/Classes/Model/DRSendPointData.m; sourceTree = "<group>"; };
 		2A052AE5027831E1098353310F759D03 /* Pods-test_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-test_Example.modulemap"; sourceTree = "<group>"; };
 		2C6E866ED3DA11513AE6F5F95E0B4C4E /* Pods-test_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-test_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		31AB368BFF503E35DB2D1BA3819E51BF /* test-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "test-dummy.m"; sourceTree = "<group>"; };
 		3801C5D062712917E41BEDBB5D829A5E /* Pods-test_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3F646D6D6C470160D90A1C1F0C640DBE /* Pods-test_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-test_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3FF74739BF67F94EBA6411002E7AF0D4 /* test-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "test-umbrella.h"; sourceTree = "<group>"; };
-		45891C3FED173AF7885DDF96673514FB /* DRTranslateManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRTranslateManager.m; path = test/Classes/Model/DRTranslateManager.m; sourceTree = "<group>"; };
 		49B98FDCE829D382F53ED8341D01FEFD /* Pods-test_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-test_Tests-dummy.m"; sourceTree = "<group>"; };
-		4E09C87C489429060C196CF521A0EE83 /* DRSingleTripPointsDB.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRSingleTripPointsDB.m; path = test/Classes/Model/DRSingleTripPointsDB.m; sourceTree = "<group>"; };
-		4EB2EED4B6A1160A20D2D764D8CD95C7 /* DRUserSinglton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUserSinglton.h; path = test/Classes/Model/DRUserSinglton.h; sourceTree = "<group>"; };
-		50956A957C85EF4E2EF1C642B6F617C2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		55C82581577B8C573813B1419D3FD2FB /* DRUploadDataModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUploadDataModel.m; path = test/Classes/Model/DRUploadDataModel.m; sourceTree = "<group>"; };
+		4B2E8E4EB273FC0764F53208DB680B2F /* test-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "test-prefix.pch"; sourceTree = "<group>"; };
 		5D15BA3E7014EE4D1EF6F88CC6869677 /* Pods-test_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test_Example-resources.sh"; sourceTree = "<group>"; };
 		60F21E7F1467CFBD3F1BF51D14FEB93C /* test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = test.framework; path = test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6694D4669AA5C5016B5F06A7533C4460 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		748102A55BD919C43C95B0EC1B96975E /* Pods-test_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-test_Example-umbrella.h"; sourceTree = "<group>"; };
-		7A91EB1A5AD04C7EA50C54543789D14F /* test-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "test-dummy.m"; sourceTree = "<group>"; };
 		7F6E9A5F0E4CD63CB1D62F4DDE98C3F4 /* Pods-test_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		85BC93F8D440CF37EC9F256E16D3E0A6 /* DRUploadDataModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUploadDataModel.h; path = test/Classes/Model/DRUploadDataModel.h; sourceTree = "<group>"; };
-		8671A65EC0A79C9DB9E53F3DCE39D79E /* DRUploadDB.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUploadDB.m; path = test/Classes/Model/DRUploadDB.m; sourceTree = "<group>"; };
 		8874107B7AA40134B58AD973C4A8F640 /* Pods-test_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test_Tests-resources.sh"; sourceTree = "<group>"; };
-		90B7D37F144D64C078DE4C76E201993A /* DRUploadLocationManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUploadLocationManager.h; path = test/Classes/Model/DRUploadLocationManager.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9CBFDA1D4CC65BE513B8BDAD5597EE8E /* DRBaseModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRBaseModel.h; path = test/Classes/Model/DRBaseModel.h; sourceTree = "<group>"; };
-		A07EF43E0D0D98F8460E8079026D1A31 /* DRUpLoadTripDataModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUpLoadTripDataModel.m; path = test/Classes/Model/DRUpLoadTripDataModel.m; sourceTree = "<group>"; };
-		A128B7333C67B81EA0B8BE76ED2C8F97 /* LVPushManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LVPushManager.h; path = test/Classes/Model/LVPushManager.h; sourceTree = "<group>"; };
-		A3DF90B26455A8601365A123E4212D2D /* DRUserSinglton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRUserSinglton.m; path = test/Classes/Model/DRUserSinglton.m; sourceTree = "<group>"; };
-		A66B9D0A53F6E9522AF7995352AA042E /* DRTranslateManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRTranslateManager.h; path = test/Classes/Model/DRTranslateManager.h; sourceTree = "<group>"; };
+		9DD1C4C3CC25C878FD5265666CAB5830 /* lskskdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = lskskdd.h; path = test/Classes/Model/lskskdd.h; sourceTree = "<group>"; };
+		AB08EA9ABD53862D83D1BD11AF7A7145 /* test.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = test.modulemap; sourceTree = "<group>"; };
 		ABF1AE6DB3DDAED78AB776DDC63E8A52 /* Pods-test_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-test_Example-dummy.m"; sourceTree = "<group>"; };
 		AE07C383886CBE81AA7E324FCCE4526B /* Pods-test_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-test_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		BD6E76069747368B15C1D94AA1C1B343 /* test.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = test.modulemap; sourceTree = "<group>"; };
-		BECD27CE32A81B8A12A10B902E1867E4 /* DRUpLoadHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUpLoadHeader.h; path = test/Classes/Model/DRUpLoadHeader.h; sourceTree = "<group>"; };
 		BFDC9FEFA83129F36C83F3A4E23FC82C /* Pods_test_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_test_Example.framework; path = "Pods-test_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C16AB2C95BC1E8B6A65EBDEFAA86A85E /* DRSingleTripPointsDB.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRSingleTripPointsDB.h; path = test/Classes/Model/DRSingleTripPointsDB.h; sourceTree = "<group>"; };
-		C6AE8982315184F396DE40F96CE52554 /* DRBaseModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DRBaseModel.m; path = test/Classes/Model/DRBaseModel.m; sourceTree = "<group>"; };
+		C2D2DE9DB9596CDD48EF95451088AD00 /* test-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "test-umbrella.h"; sourceTree = "<group>"; };
 		C780EF76E0E5C5C4F0B1F221C6637679 /* Pods-test_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-test_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C95E3E72AC5EEBEACA18E39CB1E85FB3 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE618C0007CE93518A63400224749CB4 /* Pods-test_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-test_Tests.modulemap"; sourceTree = "<group>"; };
-		D0D29E2F47F9E66211981FC32019F402 /* DRUploadDB.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUploadDB.h; path = test/Classes/Model/DRUploadDB.h; sourceTree = "<group>"; };
 		D4478F43FBA34265A6B25CED6DA71492 /* Pods-test_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-test_Tests-umbrella.h"; sourceTree = "<group>"; };
-		D7A3B1A7165D72BC20C8B3C7F08A3621 /* DRUpLoadPointModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRUpLoadPointModel.h; path = test/Classes/Model/DRUpLoadPointModel.h; sourceTree = "<group>"; };
 		E115823490509CF3894900EC57D140C4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E72F2869A1183ABDA14967B13AB02544 /* DRSendPointData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DRSendPointData.h; path = test/Classes/Model/DRSendPointData.h; sourceTree = "<group>"; };
 		EAE0EDB8079CE2EA7CE29CC0D8A5E800 /* Pods-test_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		EC6C8EC1A81731C51E32FB94E15AD42D /* Pods-test_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		F27D968F482767EE0CA5394A49ABCD4C /* test-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "test-prefix.pch"; sourceTree = "<group>"; };
+		EDBC953A90D6B6B4CCA3DD773965EF30 /* test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = test.xcconfig; sourceTree = "<group>"; };
+		EECF5A8A197B365584D1FBD5F00CB978 /* lskskdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = lskskdd.m; path = test/Classes/Model/lskskdd.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,38 +94,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2F248504E8DE9401047912D6C128807E /* test */ = {
-			isa = PBXGroup;
-			children = (
-				9CBFDA1D4CC65BE513B8BDAD5597EE8E /* DRBaseModel.h */,
-				C6AE8982315184F396DE40F96CE52554 /* DRBaseModel.m */,
-				E72F2869A1183ABDA14967B13AB02544 /* DRSendPointData.h */,
-				1ED018DD6FD43903CB7C36135D12EBCC /* DRSendPointData.m */,
-				C16AB2C95BC1E8B6A65EBDEFAA86A85E /* DRSingleTripPointsDB.h */,
-				4E09C87C489429060C196CF521A0EE83 /* DRSingleTripPointsDB.m */,
-				A66B9D0A53F6E9522AF7995352AA042E /* DRTranslateManager.h */,
-				45891C3FED173AF7885DDF96673514FB /* DRTranslateManager.m */,
-				85BC93F8D440CF37EC9F256E16D3E0A6 /* DRUploadDataModel.h */,
-				55C82581577B8C573813B1419D3FD2FB /* DRUploadDataModel.m */,
-				D0D29E2F47F9E66211981FC32019F402 /* DRUploadDB.h */,
-				8671A65EC0A79C9DB9E53F3DCE39D79E /* DRUploadDB.m */,
-				BECD27CE32A81B8A12A10B902E1867E4 /* DRUpLoadHeader.h */,
-				90B7D37F144D64C078DE4C76E201993A /* DRUploadLocationManager.h */,
-				08802E57EC495F967A09A6768C5CB718 /* DRUploadLocationManager.m */,
-				D7A3B1A7165D72BC20C8B3C7F08A3621 /* DRUpLoadPointModel.h */,
-				028F0E19055488593CE96F0E25E5EF60 /* DRUpLoadPointModel.m */,
-				0CAD9D69C4997E3C3AF93C2CDC8984FD /* DRUpLoadTripDataModel.h */,
-				A07EF43E0D0D98F8460E8079026D1A31 /* DRUpLoadTripDataModel.m */,
-				4EB2EED4B6A1160A20D2D764D8CD95C7 /* DRUserSinglton.h */,
-				A3DF90B26455A8601365A123E4212D2D /* DRUserSinglton.m */,
-				A128B7333C67B81EA0B8BE76ED2C8F97 /* LVPushManager.h */,
-				1055BC53560A416273B16B2D4D6322F4 /* LVPushManager.m */,
-				70CBD610E1ADCD64B5A28C9DE638EECF /* Support Files */,
-			);
-			name = test;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		4C8716ABAF051C011082E003CFCCF241 /* Pods-test_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -186,6 +112,17 @@
 			path = "Target Support Files/Pods-test_Tests";
 			sourceTree = "<group>";
 		};
+		508C1EEA0D8CCECA221D70CCAEC9E3FE /* test */ = {
+			isa = PBXGroup;
+			children = (
+				9DD1C4C3CC25C878FD5265666CAB5830 /* lskskdd.h */,
+				EECF5A8A197B365584D1FBD5F00CB978 /* lskskdd.m */,
+				618569A27139ACCF4B1F584EB2132224 /* Support Files */,
+			);
+			name = test;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		5E7C1D6967D39165D6B4E4AE09325D68 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -196,15 +133,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		70CBD610E1ADCD64B5A28C9DE638EECF /* Support Files */ = {
+		618569A27139ACCF4B1F584EB2132224 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				50956A957C85EF4E2EF1C642B6F617C2 /* Info.plist */,
-				BD6E76069747368B15C1D94AA1C1B343 /* test.modulemap */,
-				16BACE1ED3D910D415B2FE0168C88952 /* test.xcconfig */,
-				7A91EB1A5AD04C7EA50C54543789D14F /* test-dummy.m */,
-				F27D968F482767EE0CA5394A49ABCD4C /* test-prefix.pch */,
-				3FF74739BF67F94EBA6411002E7AF0D4 /* test-umbrella.h */,
+				C95E3E72AC5EEBEACA18E39CB1E85FB3 /* Info.plist */,
+				AB08EA9ABD53862D83D1BD11AF7A7145 /* test.modulemap */,
+				EDBC953A90D6B6B4CCA3DD773965EF30 /* test.xcconfig */,
+				31AB368BFF503E35DB2D1BA3819E51BF /* test-dummy.m */,
+				4B2E8E4EB273FC0764F53208DB680B2F /* test-prefix.pch */,
+				C2D2DE9DB9596CDD48EF95451088AD00 /* test-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/test";
@@ -214,19 +151,11 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				87FD48E41167D94350B93A73FCE01B6A /* Development Pods */,
+				E60F8901B07F1E80D5B8E7469A781E0A /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				5E7C1D6967D39165D6B4E4AE09325D68 /* Products */,
 				E39DB453909170FF1185880FF438660B /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		87FD48E41167D94350B93A73FCE01B6A /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				2F248504E8DE9401047912D6C128807E /* test */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		A326A90DBD0D966C3A813A3B6B6E5AA7 /* Pods-test_Example */ = {
@@ -272,6 +201,14 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		E60F8901B07F1E80D5B8E7469A781E0A /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				508C1EEA0D8CCECA221D70CCAEC9E3FE /* test */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -283,31 +220,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5B045C598FC01AC172B3065F6F693579 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				061891BAA98F8869E2DE813304B6C71D /* DRBaseModel.h in Headers */,
-				3653B083CA11024EE031379DA10DBBC5 /* DRSendPointData.h in Headers */,
-				80F123075C59627CF8B6E56541A22C33 /* DRSingleTripPointsDB.h in Headers */,
-				7444E9F276AC1E36D16D0CE058C50537 /* DRTranslateManager.h in Headers */,
-				9F75B1B1BC181F27D9D17E300CF095F3 /* DRUploadDataModel.h in Headers */,
-				A092E1A1BEFBD9390E3CEB2AA413FD69 /* DRUploadDB.h in Headers */,
-				5266687A7F315B538C22F41663D31248 /* DRUpLoadHeader.h in Headers */,
-				44A3F6981553AFC5765EFC6F4EF7BD2A /* DRUploadLocationManager.h in Headers */,
-				31D1F9D999F5F261A7DBCDE87EE9E24F /* DRUpLoadPointModel.h in Headers */,
-				9ADDCE9DA6D678ECB5D9500371AA1184 /* DRUpLoadTripDataModel.h in Headers */,
-				3AE993A74B160DEB679F3E1281B6294D /* DRUserSinglton.h in Headers */,
-				C4BAD2BEEB29933926C2AFA9DF9EBB60 /* LVPushManager.h in Headers */,
-				1284BAF0DB3CF7B23421A47B0995A5CA /* test-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		77A8ED6056CBDCBEBC516D57D0F59741 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				21FC6183E10F568F455692CE0AAEEA0B /* Pods-test_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BF3A63EF5CF209FF0219224385EE71B2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE8223F471FA644A3E1EA2599D57FAC7 /* lskskdd.h in Headers */,
+				E95F6E58FE2DF1DF78D714F5233956E1 /* test-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,9 +261,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3B72409D381D62983D4A29FA92D8726A /* Build configuration list for PBXNativeTarget "test" */;
 			buildPhases = (
-				26AF0DCBAD2267814566A8A74D6BCADF /* Sources */,
+				C9F2C9F7C9668DFF4ED358176538DA4A /* Sources */,
 				F31D13CB1376217C4B008B3D1202E2D7 /* Frameworks */,
-				5B045C598FC01AC172B3065F6F693579 /* Headers */,
+				BF3A63EF5CF209FF0219224385EE71B2 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -403,30 +329,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		26AF0DCBAD2267814566A8A74D6BCADF /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B63AE5112075BD93FA31BD3276E6D029 /* DRBaseModel.m in Sources */,
-				41FC0EFF37E03D2D2FBC4E75FCFE7790 /* DRSendPointData.m in Sources */,
-				7422CD4F2D093584FFCD3A42BC250C5D /* DRSingleTripPointsDB.m in Sources */,
-				AF10E0651FF28A7BA7D3426CC321AFAF /* DRTranslateManager.m in Sources */,
-				D5E0C871E7BDF079256E432698DE7025 /* DRUploadDataModel.m in Sources */,
-				9410DBF0FD5AE62041AEB4A9ACF520D0 /* DRUploadDB.m in Sources */,
-				0780F46019CAF505490912E2B7743668 /* DRUploadLocationManager.m in Sources */,
-				4A5659CD82212DD60D6F4807DE50A962 /* DRUpLoadPointModel.m in Sources */,
-				FB55F3967E98D4AA9DEF9F4278CC4CFA /* DRUpLoadTripDataModel.m in Sources */,
-				4C0513F1158100E1753FBF8D8EA10CF7 /* DRUserSinglton.m in Sources */,
-				ADE5A4E1F7943CAAAD238E202D611D47 /* LVPushManager.m in Sources */,
-				21B07CABE7BD5014C32565C34E592EDA /* test-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		613F5BA6FD661250206C0C27E7011BD4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				BD224BE23564F09F20DD0EC0CEB18786 /* Pods-test_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C9F2C9F7C9668DFF4ED358176538DA4A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0A0FB5640B5580B2F089416736F45D45 /* lskskdd.m in Sources */,
+				741899D55025830B9B9AEFD0FF7329B1 /* test-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -488,7 +404,7 @@
 		};
 		38980AC07C6A2EA92E7A2E05B9B407A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 16BACE1ED3D910D415B2FE0168C88952 /* test.xcconfig */;
+			baseConfigurationReference = EDBC953A90D6B6B4CCA3DD773965EF30 /* test.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -714,7 +630,7 @@
 		};
 		FAF4E3079AF61F82AD794F9C62C5D6EA /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 16BACE1ED3D910D415B2FE0168C88952 /* test.xcconfig */;
+			baseConfigurationReference = EDBC953A90D6B6B4CCA3DD773965EF30 /* test.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

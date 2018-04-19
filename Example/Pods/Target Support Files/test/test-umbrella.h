@@ -10,18 +10,7 @@
 #endif
 #endif
 
-#import "DRBaseModel.h"
-#import "DRSendPointData.h"
-#import "DRSingleTripPointsDB.h"
-#import "DRTranslateManager.h"
-#import "DRUploadDataModel.h"
-#import "DRUploadDB.h"
-#import "DRUpLoadHeader.h"
-#import "DRUploadLocationManager.h"
-#import "DRUpLoadPointModel.h"
-#import "DRUpLoadTripDataModel.h"
-#import "DRUserSinglton.h"
-#import "LVPushManager.h"
+#import "lskskdd.h"
 
 FOUNDATION_EXPORT double testVersionNumber;
 FOUNDATION_EXPORT const unsigned char testVersionString[];
